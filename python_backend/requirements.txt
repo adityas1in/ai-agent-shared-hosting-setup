@@ -1,0 +1,22 @@
+# AI Agent Backend Dependencies
+# Shared Hosting par install karne ke liye
+
+# LLM & AI
+langchain==0.1.0
+groq==0.4.0
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Web Framework
+flask==2.3.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# Database (optional)
+pymongo==4.5.0
+SQLAlchemy==2.0.0
+
+# Utilities
+pydantic==2.0.0
+aiohttp==3.9.0
+Python-dateutil==2.8.2
